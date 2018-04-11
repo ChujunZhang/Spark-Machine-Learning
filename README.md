@@ -1,1 +1,1 @@
-# spark-machine-learning
+# Spark Machine Learning
