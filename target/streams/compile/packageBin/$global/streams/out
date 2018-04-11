@@ -1,0 +1,13 @@
+[info] Packaging C:\Users\cxz16\OneDrive\Documents\GitHub\spark-machine-learning\target\scala-2.11\spark-machine-learning_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Preprocessing$.class
+[debug] 	  C:\Users\cxz16\OneDrive\Documents\GitHub\spark-machine-learning\target\scala-2.11\classes\Preprocessing$.class
+[debug] 	Preprocessing.class
+[debug] 	  C:\Users\cxz16\OneDrive\Documents\GitHub\spark-machine-learning\target\scala-2.11\classes\Preprocessing.class
+[debug] 	Preprocessing$$typecreator1$1.class
+[debug] 	  C:\Users\cxz16\OneDrive\Documents\GitHub\spark-machine-learning\target\scala-2.11\classes\Preprocessing$$typecreator1$1.class
+[debug] 	Driver.class
+[debug] 	  C:\Users\cxz16\OneDrive\Documents\GitHub\spark-machine-learning\target\scala-2.11\classes\Driver.class
+[debug] 	Driver$.class
+[debug] 	  C:\Users\cxz16\OneDrive\Documents\GitHub\spark-machine-learning\target\scala-2.11\classes\Driver$.class
+[info] Done packaging.
